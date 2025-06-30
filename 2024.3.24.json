@@ -1,0 +1,29 @@
+{
+	"addonId": "virtualRevision",
+	"displayName": "Virtual Review",
+	"URL": "",
+	"description": "Provides a simple reviewable dialog of the text of the currently focused window.",
+	"sha256": "a9d1c117e1a20ab6c31ac72f4cfd6ef8c0948da91d6f86a742a920a09f5f0a2e",
+	"homepage": "https://github.com/ruifontes/virtualReview",
+	"addonVersionName": "2024.03.24",
+	"addonVersionNumber": {
+		"major": 2024,
+		"minor": 3,
+		"patch": 24
+	},
+	"minNVDAVersion": {
+		"major": 2019,
+		"minor": 3,
+		"patch": 0
+	},
+	"lastTestedVersion": {
+		"major": 2024,
+		"minor": 1,
+		"patch": 0
+	},
+	"channel": "stable",
+	"publisher": "",
+	"sourceURL": "https://github.com/ruifontes/virtualReview",
+	"license": "GPL 2",
+	"licenseURL": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+}
