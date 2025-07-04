@@ -1,0 +1,29 @@
+{
+	"addonId": "virtualRevision",
+	"displayName": "Virtual Review",
+	"URL": "",
+	"description": "Provides a simple reviewable dialog of the text of the currently focused window. I just vibe fix some bugs",
+	"sha256": "ef42917bf5029fbaa435e8c37b8a388f22776d27b95729b392a699d2cb8c3d7a",
+	"homepage": "https://github.com/serrebi/virtualReview",
+	"addonVersionName": "2025.07.04",
+	"addonVersionNumber": {
+		"major": 2025,
+		"minor": 7,
+		"patch": 4
+	},
+	"minNVDAVersion": {
+		"major": 2019,
+		"minor": 3,
+		"patch": 0
+	},
+	"lastTestedVersion": {
+		"major": 2027,
+		"minor": 1,
+		"patch": 0
+	},
+	"channel": "stable",
+	"publisher": "",
+	"sourceURL": "https://github.com/serrebi/virtualReview",
+	"license": "GPL 2",
+	"licenseURL": "https://www.gnu.org/licenses/old-licenses/gpl-2.0.html"
+}

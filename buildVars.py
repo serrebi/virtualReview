@@ -23,9 +23,9 @@ addon_info = {
 	"addon_summary": _("Virtual Review"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-	"addon_description": _("""Provides a simple reviewable dialog of the text of the currently focused window."""),
+	"addon_description": _("""Provides a simple reviewable dialog of the text of the currently focused window. I just vibe fix some bugs"""),
 	# version
-	"addon_version": "2025.06.30",
+	"addon_version": "2025.07.04",
 	# Author(s)
 	"addon_author": "Brandon AKA serrebi <serrebi101@gmail.com>, Rui Fontes <rui.fontes@tiflotecnia.com>, Rui Batista <ruiandrebatista@gmail.com> and NVDA Addon Team",
 	# URL for the add-on documentation support
@@ -37,7 +37,7 @@ addon_info = {
 	# Minimum NVDA version supported (e.g. "2018.3.0", minor version is optional)
 	"addon_minimumNVDAVersion": "2019.3",
 	# Last NVDA version supported/tested (e.g. "2018.4.0", ideally more recent than minimum version)
-	"addon_lastTestedNVDAVersion": "2026.1",
+	"addon_lastTestedNVDAVersion": "2027.1",
 	# Add-on update channel (default is None, denoting stable releases,
 	# and for development releases, use "dev".)
 	# Do not change unless you know what you are doing!
