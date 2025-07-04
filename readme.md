@@ -2,7 +2,7 @@
 
 
 * Authors: Rui Batista, serrebi,  and NVDA Addon Team
-This Addon allows NVDA users to review a Window content in a text box, similar to window virtualization of JAWS for Windows.
+This Addon allows NVDA users to review a Window content in a text box, similar to window virtualization of JAWS for Windows. It works best in commandline type windows
 Note, however, that this is just a convenience for users and does not replace NVDA's excellent review modes and object navigation support.
 
 
